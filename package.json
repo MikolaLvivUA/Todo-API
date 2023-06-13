@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@aws-sdk/client-dynamodb": "^3.231.0",
+    "@aws-sdk/client-dynamodb": "^3.351.0",
     "aws-sdk": "^2.1273.0",
     "serverless-http": "^2.7.0",
     "uuid": "^9.0.0"
